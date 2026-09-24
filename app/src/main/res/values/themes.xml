@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.SentraShield" parent="android:Theme.Material.NoActionBar"/>
+</resources>
